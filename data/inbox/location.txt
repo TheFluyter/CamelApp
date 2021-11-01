@@ -1,0 +1,5 @@
+1, planet
+2, continent
+3, country
+4, city
+5, street
